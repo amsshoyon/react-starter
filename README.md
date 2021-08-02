@@ -1,4 +1,4 @@
-## App Info
+## App Info [Demo](https://reactify.netlify.app)
 ---
 This is a starter app for React that includes react core features as well as followings-
 * Mobx Store
@@ -8,6 +8,8 @@ This is a starter app for React that includes react core features as well as fol
 * Preloader
 * Nice folder structure following latest developer trand
 * Manifest.js for easy data access
+
+View demo on https://reactify.netlify.app
 
 ## Start Project
 ```
